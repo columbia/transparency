@@ -31,3 +31,14 @@ Sunlight is an analysis pipeline that provides causal targeting detection with s
   <li><a href="https://github.com/columbia/sunlight_plugin">Modified AdBlock plugin</a>  (for Web ads experiment)</li>
   <li>Data dumps: <a href="http://www.cs.columbia.edu/~mathias/sunlight/gmail/data.zip">[Gmail ads data]</a>, <a href="www.cs.columbia.edu/~riley/sunlight/website_dump.tar.gz">[Web ads data]</a></li>
 </ul>
+
+### The team
+
+<p>
+<a href="http://www.cs.columbia.edu/~mathias/">Mathias Lecuyer</a>,
+<a href="http://www.cs.columbia.edu/~riley/">Riley Spahn</a>,
+<a href="http://www.cs.columbia.edu/~yannis/">Yannis Spiliopoulos</a>,
+<a href="http://www.cs.columbia.edu/~augustin/">Augustin Chaintreau</a>,
+<a href="http://www.cs.columbia.edu/~roxana/">Roxana Geambasu</a>,
+<a href="http://www.cs.columbia.edu/~djhsu/">Daniel Hsu</a>
+</p>

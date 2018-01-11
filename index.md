@@ -1,4 +1,4 @@
-## Transparency research at Columbia
+## Web transparency research at Columbia
 
 Today’s Web services leverage users’ information – such as emails, search logs, or locations – and use them to target advertisements, prices, or products at users. Presently, users have little insight into how their data is used for such purposes. To enhance transparency, we are building a new set of tools system that detect what data – such as emails or searches – is used to target which ads in Gmail, which prices in Amazon, etc. The insight is to compare ads/prices witnessed by different accounts with similar, but not identical, subsets of the data.
 
